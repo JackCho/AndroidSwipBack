@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwipBackDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="first">First Activity</string>
+    <string name="second">Second Activity</string>
+    <string name="jump">Jump to Second Activity</string>
+
+</resources>
